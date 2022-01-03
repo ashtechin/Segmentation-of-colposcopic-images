@@ -1,4 +1,4 @@
-#Segmentation of Colposcopic images by k-means
+# Segmentation of Colposcopic images by k-means
 
 
 
@@ -15,7 +15,9 @@ Medical Image Enhancement:Main Algorithm working:
 4.On the last step we just do the concatination of original and segmented image.
 
 
-###Uses of Image Segmentation:
+# Uses of Image Segmentation:
 Improved Quality of MRI/Medical images for better detection of diseases and problems
 Segmenting images can help to improve robot vision
 Image segementation is also be applied to satellite images in order to get better object detection. These objects may be buildings,roads,cars,or trees , for example. Applications of this type of imagery labelling are widespread, from analysing traffic to monitoring environmental changes taking place due to global warming.
+
+We have limited the number of images because of high computational cost. 
